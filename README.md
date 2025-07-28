@@ -49,7 +49,7 @@ A Python script to automate downloading, editing, and uploading motivational vid
 
 - 📧 Email: tekeshemunyaradzi@gmail.com  
 - 📱 Phone: +27 63 562 6030  
-- 🌍 LinkedIn: [https://linkedin.com/in/muntek82](https://linkedin.com/in/muntek82)  
+- 🌍 LinkedIn: [https://linkedin.com/in/muntek82](www.linkedin.com/in/munyaradzi-tekeshe-16013a2b0)  
 
 ---
 
