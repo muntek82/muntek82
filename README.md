@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm Munyaradzi Tekeshe  
 
-<!--
-**muntek82/muntek82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Self-taught Python Developer** | 🚀 Career-Changer | 📍 South Africa  
+💼 Actively seeking **Junior Developer** or **Internship** opportunities  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 Featured Projects
+
+### 📚 Study Boost App
+A Flask web app to help students revise using notes, exam papers, and YouTube videos, categorized by subject and term.  
+- 🔗 [Live Demo](https://your-render-link.com)  
+- 💻 [Source Code](https://github.com/muntek82/study-boost-app)  
+- **Tech:** Python, Flask, SQLite, Bootstrap  
+
+---
+
+### 🍕 Pizza Delivery App
+A web-based pizza ordering system with cart, order summary, and checkout flow.  
+- 🔗 [Live Demo](https://your-render-link.com)  
+- 💻 [Source Code](https://github.com/muntek82/pizza-delivery-app)  
+- **Tech:** Python, Flask, SQLite, Bootstrap  
+
+---
+
+###  📽️ YouTube Automation Tool *(In Progress)*
+A Python script to automate downloading, editing, and uploading motivational videos weekly.  
+- 💻 [Source Code](https://github.com/muntek82/youtube-automation)  
+- **Tech:** Python, Pytube, MoviePy, Google API 
+
+---
+
+## 🧠 Skills
+
+- **Languages & Frameworks:** Python, Flask, HTML, CSS, Bootstrap  
+- **Databases:** SQLite  
+- **Other:** APIs, Web Scraping, OOP, Git, Automation  
+
+---
+
+## 📜 Certificates
+
+🎓 Completed the **100 Days of Python Bootcamp** by Dr. Angela Yu  
+*(Certificate available on request)*  
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: tekeshemunyaradzi@gmail.com  
+- 📱 Phone: +27 63 562 6030  
+- 🌍 LinkedIn: [https://linkedin.com/in/muntek82](https://linkedin.com/in/muntek82)  
+
+---
+
+💡 *Passionate about turning ideas into working apps and always learning new skills.*  
+
 -->
